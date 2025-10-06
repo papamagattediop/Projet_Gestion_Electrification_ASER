@@ -1,4 +1,4 @@
-# ⚡ Gestion de l'Électrification Rurale au Sénégal  
+# Gestion de l'Électrification Rurale au Sénégal  
 ### Projet SQL – ENSAE Dakar
 
 ## 📘 Présentation du projet  
