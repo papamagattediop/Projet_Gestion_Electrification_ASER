@@ -13,11 +13,11 @@ L’objectif est de fournir un outil robuste permettant à l’**ASER** (Agence 
 
 ## 🗄️ Structure du projet
 
-📁 GROUPE9_SQL/
-├── electrification_schema.sql # Script de création du schéma de base de données
-├── generateur_donnee.sql # Script d’insertion et de génération des données simulées
-├── Rapport de projet.pdf # Rapport complet présentant la conception et les analyses
-├── README.md # Présent fichier de description
+📁 GROUPE9_SQL/  
+├── electrification_schema.sql # Script de création du schéma de base de données  
+├── generateur_donnee.sql # Script d’insertion et de génération des données simulées  
+├── Rapport de projet.pdf # Rapport complet présentant la conception et les analyses  
+├── README.md # Présent fichier de description  
 
 ---
 
